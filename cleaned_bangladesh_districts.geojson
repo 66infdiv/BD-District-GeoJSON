@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "District": "Rangpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.25,
+              25.75
+            ],
+            [
+              89.5,
+              25.75
+            ],
+            [
+              89.5,
+              26.0
+            ],
+            [
+              89.25,
+              26.0
+            ],
+            [
+              89.25,
+              25.75
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "District": "Dinajpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.5,
+              25.5
+            ],
+            [
+              88.75,
+              25.5
+            ],
+            [
+              88.75,
+              25.75
+            ],
+            [
+              88.5,
+              25.75
+            ],
+            [
+              88.5,
+              25.5
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
